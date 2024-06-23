@@ -11,7 +11,6 @@
 
 # Bug Host All Operator 
 
-
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
@@ -21,3 +20,39 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 👇👇
 
 [![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
+
+
+
+
+# Scanning Open Port 80
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_1.png)
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_2.png)
+# Scanning Open Port 443
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug1.jpg)
+
+</p>
+<div height='45' align="center">
+<h2>Contact me: <br>
+</p>
+   
+<a href="https://github.com/kiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/kiplymachobanjar"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+</h2>
+</div>
+<h2 align="center">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
+<h2 align="center">
+
+- Kritik & Saran
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
+
+# _Subscribe_
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
+
+# _Follow_
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
