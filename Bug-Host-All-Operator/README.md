@@ -1,6 +1,28 @@
-# Scanning Bug All Operator Indonesia
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
+   <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
+</p>
 
-# Created Boychongzen aka Xroot
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+
+<h2 align="center">
+
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+
+# Bug Host All Operator 
+
+# Syarat & Ketentuan 
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+<h2 align="center">
+
+Unduh Aplikasi Termux Nya Dibawah Ini
+
+👇👇
+
+[![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
+
+
+
 
 # Scanning Open Port 80
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_1.png)
@@ -9,19 +31,28 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug1.jpg)
 
-My Youtube    : https://www.youtube.com/@AksesInternet2023
+</p>
+<div height='45' align="center">
+<h2>Contact me: <br>
+</p>
+   
+<a href="https://github.com/kiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/kiplymachobanjar"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 
-Link Tutorial : https://youtu.be/fZIBHfnKwTo
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+</h2>
+</div>
+<h2 align="center">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
+<h2 align="center">
 
-My Website    : https://hackingforlive.wordpress.com
+- Kritik & Saran
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
-My Facebok    : https://web.facebook.com/xroot.xroot.7
+# _Subscribe_
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
 
-eMAIL         : hackingforlive@yahoo.com     
-
-MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
-
-# Moto : Berbagi Itu Indah
-
-# Regard Boychongzen aka Xroot
-
+# _Follow_
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
