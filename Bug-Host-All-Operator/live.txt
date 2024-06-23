@@ -1,0 +1,55 @@
+Scanning Bughost Support Axis & XL Opok Unlimited  2023
+
+Created By Boychongzen aka Xroot
+
+
+
+
+
+ajiz.opok.barokahnet.my.id
+ungu.ngopok.boychongzen.online
+amer-webhook.teams.live.com	20.106.10.209	
+apac-webhook.teams.live.com	20.210.132.127	
+emea-webhook.teams.live.com	20.101.7.197	
+int-webhook.teams.live.com	20.252.56.166	
+sf-int-webhook.teams.live.com	20.252.56.166	
+ privacy.teams.live.com	52.113.194.133	
+test.chatsvcagg.teams.live.com	20.190.22.48	
+test.csa.teams.live.com	20.190.22.48	
+login.teams.live.com	52.113.194.133	
+teams.live.com	52.113.194.132	
+test.cachewriter.teams.live.com	20.190.22.60	
+chatsvcagg.teams.live.com	13.86.36.124	
+csa.teams.live.com	13.86.36.124	
+df.chatsvcagg.teams.live.com	52.149.63.83	
+df.csa.teams.live.com	52.149.63.83	
+int.chatsvcagg.teams.live.com	20.59.41.2	
+amer.cachewriter.teams.live.com	20.97.75.177	
+df.cachewriter.teams.live.com	52.149.63.230	
+int.cachewriter.teams.live.com	52.149.63.230	
+groups.prod.teams.live.com
+teamsopenaisvc.prod.teams.live.com	
+middletier.nonprod.teams.live.com	
+groups.nonprod.teams.live.com	
+searchsvc.nonprod.teams.live.com	
+packagedeliveryservice.nonprod.teams.live.com	
+packagedeliveryservice.prod.teams.live.com	
+authsvc.nonprod.teams.live.com	
+teamsopenaisvc.nonprod.teams.live.com	
+notifsvc.nonprod.teams.live.com	none	
+authsvc.prod.teams.live.com	none	
+middletier.prod.teams.live.com	
+notifsvc.prod.teams.live.com	
+certdemo.nonprod.teams.live.com	
+certbrownbag.nonprod.teams.live.com	
+grnit.prod.teams.live.com		
+grnit.nonprod.teams.live.com		
+ss.nonprod.teams.live.com		
+ss.prod.teams.live.com	
+settingsstore.prod.teams.live.com	
+settingsstore.nonprod.teams.live.com	
+int.csa.teams.live.com	none	
+msft.chatsvcagg.teams.live.com	
+msft.csa.teams.live.com	none	
+cachewriter.teams.live.com	
+authsvc.tfl.teams.live.com	

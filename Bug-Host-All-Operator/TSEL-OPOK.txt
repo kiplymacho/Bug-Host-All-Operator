@@ -1,0 +1,19 @@
+Scanning Bughost OPOK 2022
+
+Created By Boychongzen aka Xroot
+
+
+staging-dashboard.skul.id
+apidocs.skul.id
+b2b2c.skul.id
+www.skul.id
+my.skul.id
+dashboard.skul.id
+staging-b2b2c.skul.id
+staging-api.skul.id
+staging-my.skul.id
+video.skul.id
+api.skul.id
+dev.skul.id
+mail-qwords.skul.id
+mail.skul.id
